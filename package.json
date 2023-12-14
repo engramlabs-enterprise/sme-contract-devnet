@@ -1,0 +1,20 @@
+{
+  "name": "peruri-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Joy Wibowo",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.2",
+    "hardhat-spdx-license-identifier": "^2.2.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "chai": "^4.3.10"
+  }
+}
